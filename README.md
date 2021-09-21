@@ -3,7 +3,7 @@
 My name is Matt and here's a little bit about me:
 
 - 😄 Pronouns: ... He/him
-- 🔭 I’m currently working on ... Getting through LaunchCode's LC101 program
+- 🔭 I’m currently working on ... Completing LaunchCode's LC101 program
 - 🌱 I’m currently learning ... Java
 - 👯 I’m looking to collaborate on ... Something once I'm done this cohort
 - 🤔 I’m looking for help with ... IDEK 😆
