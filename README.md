@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hello! 👋
 
 My name is Matt and here's a little bit about me:
 
 - 😄 Pronouns: ... He/him
-- 🔭 I’m currently working on ... Completing LaunchCode's LC101 program
-- 🌱 I’m currently learning ... Java
-- 👯 I’m looking to collaborate on ... Something once I'm done this cohort
-- 🤔 I’m looking for help with ... IDEK 😆
-- 💬 Ask me about ... Music, unless it's song or band names. They bounce off my brain anymore.
+- 🔭 I’m currently working on ... Some personal projects; stay tuned!
+- 🌱 I’m currently learning ... JS, Java, Python
+- 👯 I’m looking to collaborate on ... Programming and Music
+- 🤔 I’m looking for help with ... what to work on post graduation!
+- 💬 Ask me about ... Music, unless it's song or band names. They bounce off my brain and I can never remember.
 - 📫 How to reach me: ... https://twitter.com/mattx2k1
 - ⚡ Fun fact: ... Pokemon and Digimon got me into technlogy at a young age. 
 
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Matthew Harris LC grad](https://user-images.githubusercontent.com/44537080/175759028-fe1d1d41-c76e-462d-a24c-0e096a1c6e99.jpg)
