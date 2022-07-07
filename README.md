@@ -7,7 +7,7 @@ My name is Matt and here's a little bit about me:
 - 🌱 I’m currently learning ... JS, Java, Python
 - 👯 I’m looking to collaborate on ... Programming and Music
 - 🤔 I’m looking for help with ... what to work on post graduation!
-- 💬 Ask me about ... Music, unless it's song or band names. They bounce off my brain and I can never remember.
+- 💬 Ask me about ... Music, unless it's a specific song or band names. They bounce off my brain and I can never remember.
 - 📫 How to reach me: ... https://twitter.com/mattx2k1
 - ⚡ Fun fact: ... Pokemon and Digimon got me into technlogy at a young age. 
 
