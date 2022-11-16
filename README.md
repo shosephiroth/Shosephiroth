@@ -9,7 +9,7 @@ My name is Matt and here's a little bit about me:
 - 🤔 I’m looking for help with: ... finding more free time!
 - 💬 Ask me about: ... Music, unless it's a specific song or band names. They bounce off my brain and I can never remember.
 - 📫 How to reach me: ... https://twitter.com/mattx2k1
-- ⚡ Fun fact: ... Pokemon and Digimon hooked me into technlogy at a young age. I found ways to remake some games or characters within by changing the code. 
+- ⚡ Fun fact: ... Pokemon and Digimon hooked me into technlogy at a young age. I found ways to remake games and characters within by changing the code. 
 
 <!--
 **Mattx2k1/Mattx2k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
