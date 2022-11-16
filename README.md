@@ -2,7 +2,7 @@
 
 My name is Matt and here's a little bit about me:
 
-- 😄 Pronouns: ... He/him
+- 😄 Pronouns: ... He / Him
 - 🔭 I’m currently working on: ... Some personal projects; stay tuned!
 - 🌱 I’m currently learning: ... JavaScript, Java, and Python.
 - 👯 I’m looking to collaborate on: ... Programming Projects and Music
