@@ -8,7 +8,7 @@ My name is Matt and here's a little bit about me:
 - 👯 I’m looking to collaborate on: ... Programming Projects and Music
 - 🤔 I’m looking for help with: ... finding more free time!
 - 💬 Ask me about: ... Music, unless it's a specific song or band names. They bounce off my brain and I can never remember.
-- 📫 How to reach me: ... https://twitter.com/mattx2k1
+- 📫 How to reach me: ... https://hachyderm.io/@darksho
 - ⚡ Fun fact: ... Pokemon and Digimon hooked me into technlogy at a young age. I found ways to remake games and characters within by changing the code. 
 
 <!--
