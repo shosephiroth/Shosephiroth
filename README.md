@@ -4,7 +4,7 @@ My name is Matt and here's a little bit about me:
 
 - 😄 Pronouns: ... He / Him
 - 🔭 I’m currently working on: ... Some personal projects; stay tuned!
-- 🌱 I’m currently learning: ... JavaScript, Java, and Python.
+- 🌱 I’m currently learning: ... React.
 - 👯 I’m looking to collaborate on: ... Programming Projects and Music
 - 🤔 I’m looking for help with: ... finding more free time!
 - 💬 Ask me about: ... Music, unless it's a specific song or band names. They bounce off my brain and I can never remember.
