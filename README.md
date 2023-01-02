@@ -6,10 +6,10 @@ My name is Matt and here's a little bit about me:
 - 🔭 I’m currently working on: ... Some personal projects; stay tuned!
 - 🌱 I’m currently learning: ... React.
 - 👯 I’m looking to collaborate on: ... Programming Projects and Music
-- 🤔 I’m looking for help with: ... finding more free time!
-- 💬 Ask me about: ... Music, unless it's a specific song or band names. They bounce off my brain and I can never remember.
+- 🤔 I’m looking for help with: ... cooking! I bought an Instapot.
+- 💬 Ask me about: ... Making music, Astrology, Pokemon, Digimon
 - 📫 How to reach me: ... https://hachyderm.io/@darksho
-- ⚡ Fun fact: ... Pokemon and Digimon hooked me into technlogy at a young age. I found ways to remake games and characters within by changing the code. 
+- ⚡ Fun fact: ...  I have three fur babies
 
 <!--
 **Mattx2k1/Mattx2k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
