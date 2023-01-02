@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 ![Matthew Harris LC grad](https://user-images.githubusercontent.com/44537080/175759028-fe1d1d41-c76e-462d-a24c-0e096a1c6e99.jpg)
+-->
