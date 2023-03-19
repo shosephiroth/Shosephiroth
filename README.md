@@ -5,7 +5,7 @@ My name is Matt and here's a little bit about me:
 - 😄 Pronouns: ... He / Him
 - 🔭 I’m currently working on: ... Some personal projects; stay tuned!
 - 🌱 I’m currently learning: ... React.
-- 👯 I’m looking to collaborate on: ... Programming Projects and Music
+- 👯 I’m looking to collaborate on: ... Front-End Development Projects and Music
 - 🤔 I’m looking for help with: ... cooking! I bought an Instapot.
 - 💬 Ask me about: ... Making music, Astrology, Pokemon, Digimon
 - 📫 How to reach me: ... https://hachyderm.io/@darksho
