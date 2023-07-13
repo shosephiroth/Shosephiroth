@@ -8,8 +8,8 @@ My name is Matt and here's a little bit about me:
 - 👯 I’m looking to collaborate on: ... Front-End Development Projects and Music
 - 🤔 I’m looking for help with: ... cooking! I bought an Instapot.
 - 💬 Ask me about: ... Making music, Astrology, Pokemon, Digimon
-- 📫 How to reach me: ... https://hachyderm.io/@darksho
-- ⚡ Fun fact: ...  I have three fur babies
+- 📫 How to reach me: ... Follow the White Rabbit
+- ⚡ Fun fact: ...  I have three fur babies (cats but I love dogs too!)
 
 <!--
 **Mattx2k1/Mattx2k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
