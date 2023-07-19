@@ -8,7 +8,6 @@ My name is Matt and here's a little bit about me:
 - 👯 I’m looking to collaborate on: ... Front-End Development Projects and Music
 - 🤔 I’m looking for help with: ... cooking! I bought an Instapot.
 - 💬 Ask me about: ... Making music, Astrology, Pokemon, Digimon
-- 📫 How to reach me: ... Follow the White Rabbit
 - ⚡ Fun fact: ...  I have three fur babies (cats but I love dogs too!)
 
 <!--
