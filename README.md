@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Matt and here's a little bit about me:
+My name is Sho and here's a little bit about me:
 
 - 😄 Pronouns: ... He / Him
 - 🔭 I’m currently working on: ... Some personal projects; stay tuned!
