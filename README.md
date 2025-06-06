@@ -3,7 +3,11 @@
 My name is Sho and here's a little bit about me:
 
 - 😄 Pronouns: ... He / Him
-- 🔭 I’m currently working on: ... Some personal projects; stay tuned!
+- - 💬 Ask me about ... Music and Tech
+- 🔭 I’m currently working on:
+  - Projects for my portfolio - https://matthewharris.built2chill.com/
+  - One of my music projects
+  - Custom GPTs and Tools
 - 🌱 I’m currently learning: ... Math (re-learning, actually. I plan to re-enroll in school for Computer Science).
 
 <!--
