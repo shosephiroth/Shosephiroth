@@ -3,7 +3,7 @@
 My name is Sho and here's a little bit about me:
 
 - 😄 Pronouns: ... He / Him
-- - 💬 Ask me about ... Music and Tech
+- 💬 Ask me about ... Music and Tech
 - 🔭 I’m currently working on:
   - Projects for my portfolio - https://matthewharris.built2chill.com/
   - One of my music projects - https://shosephiroth.com/
