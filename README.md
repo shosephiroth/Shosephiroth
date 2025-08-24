@@ -8,7 +8,7 @@ My name is Sho and here's a little bit about me:
   - Projects for my portfolio - https://matthewharris.built2chill.com/
   - One of my music projects - https://shosephiroth.com/
   - Custom GPTs, Gems, and Tools
-- 🌱 I’m currently learning: ... Math (re-learning, actually. I plan to re-enroll in school for Computer Science).
+- 🌱 I’m currently learning: ... AI and [Computer Science](https://github.com/ossu/computer-science).
 
 <!--
 **Mattx2k1/Mattx2k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
